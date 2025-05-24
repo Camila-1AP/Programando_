@@ -1,0 +1,7 @@
+C:\Users\camil\source\repos\ListaUserPromedio\bin\Debug\ListaUserPromedio.exe.config
+C:\Users\camil\source\repos\ListaUserPromedio\bin\Debug\ListaUserPromedio.exe
+C:\Users\camil\source\repos\ListaUserPromedio\bin\Debug\ListaUserPromedio.pdb
+C:\Users\camil\source\repos\ListaUserPromedio\obj\Debug\ListaUserPromedio.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\ListaUserPromedio\obj\Debug\ListaUserPromedio.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\ListaUserPromedio\obj\Debug\ListaUserPromedio.exe
+C:\Users\camil\source\repos\ListaUserPromedio\obj\Debug\ListaUserPromedio.pdb

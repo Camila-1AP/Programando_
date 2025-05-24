@@ -1,0 +1,7 @@
+C:\Users\camil\source\repos\SumDigits\bin\Debug\SumDigits.exe.config
+C:\Users\camil\source\repos\SumDigits\bin\Debug\SumDigits.exe
+C:\Users\camil\source\repos\SumDigits\bin\Debug\SumDigits.pdb
+C:\Users\camil\source\repos\SumDigits\obj\Debug\SumDigits.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\SumDigits\obj\Debug\SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\SumDigits\obj\Debug\SumDigits.exe
+C:\Users\camil\source\repos\SumDigits\obj\Debug\SumDigits.pdb

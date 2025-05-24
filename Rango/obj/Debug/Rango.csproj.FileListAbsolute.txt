@@ -1,0 +1,7 @@
+C:\Users\camil\source\repos\Rango\bin\Debug\Rango.exe.config
+C:\Users\camil\source\repos\Rango\bin\Debug\Rango.exe
+C:\Users\camil\source\repos\Rango\bin\Debug\Rango.pdb
+C:\Users\camil\source\repos\Rango\obj\Debug\Rango.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\Rango\obj\Debug\Rango.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Rango\obj\Debug\Rango.exe
+C:\Users\camil\source\repos\Rango\obj\Debug\Rango.pdb

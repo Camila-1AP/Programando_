@@ -1,0 +1,7 @@
+C:\Users\camil\source\repos\CountDigits\bin\Debug\CountDigits.exe.config
+C:\Users\camil\source\repos\CountDigits\bin\Debug\CountDigits.exe
+C:\Users\camil\source\repos\CountDigits\bin\Debug\CountDigits.pdb
+C:\Users\camil\source\repos\CountDigits\obj\Debug\CountDigits.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\CountDigits\obj\Debug\CountDigits.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\CountDigits\obj\Debug\CountDigits.exe
+C:\Users\camil\source\repos\CountDigits\obj\Debug\CountDigits.pdb
