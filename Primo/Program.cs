@@ -11,8 +11,9 @@ namespace Primo
     {
         static void Main(string[] args)
         {
+            Primo();
         }
-        static bool Primo()
+        static void Primo()
         {
             Console.Write("Ingrese un número: ");
             string tryPrimo = Console.ReadLine();
@@ -21,14 +22,29 @@ namespace Primo
 
             if (exito1)
             {
-                if (primo < 2) return false;
+                if (primo < 2)
+                {
+                    Console.WriteLine("El número no es primo");
+                }
+
                 for (int i = 2; i * i <= primo; i++)
                 {
-                    if (primo % i == 0) return false;
+                    if (primo % i == 0)
+                    {
+                        Console.WriteLine("El número no es primo");
+                    } else
+                    {
+                        Console.WriteLine("El número es primo!");
+                    }
+                   
                 }
-                return true;
+                
+                //Console.WriteLine("El número es primo!");
+            }else
+            {
+                Console.WriteLine("El número no es primo");
             }
-            return false;
+                
             
         }
        

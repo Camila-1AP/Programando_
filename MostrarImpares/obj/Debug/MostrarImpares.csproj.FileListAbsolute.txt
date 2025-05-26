@@ -1,0 +1,7 @@
+C:\Users\camil\source\repos\MostrarImpares\bin\Debug\MostrarImpares.exe.config
+C:\Users\camil\source\repos\MostrarImpares\bin\Debug\MostrarImpares.exe
+C:\Users\camil\source\repos\MostrarImpares\bin\Debug\MostrarImpares.pdb
+C:\Users\camil\source\repos\MostrarImpares\obj\Debug\MostrarImpares.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\MostrarImpares\obj\Debug\MostrarImpares.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\MostrarImpares\obj\Debug\MostrarImpares.exe
+C:\Users\camil\source\repos\MostrarImpares\obj\Debug\MostrarImpares.pdb

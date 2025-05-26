@@ -1,0 +1,7 @@
+C:\Users\camil\source\repos\Division\bin\Debug\Division.exe.config
+C:\Users\camil\source\repos\Division\bin\Debug\Division.exe
+C:\Users\camil\source\repos\Division\bin\Debug\Division.pdb
+C:\Users\camil\source\repos\Division\obj\Debug\Division.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\Division\obj\Debug\Division.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Division\obj\Debug\Division.exe
+C:\Users\camil\source\repos\Division\obj\Debug\Division.pdb

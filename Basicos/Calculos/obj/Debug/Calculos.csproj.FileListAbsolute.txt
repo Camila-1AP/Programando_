@@ -1,0 +1,7 @@
+C:\Users\camil\source\repos\Basicos\Calculos\bin\Debug\Calculos.exe.config
+C:\Users\camil\source\repos\Basicos\Calculos\bin\Debug\Calculos.exe
+C:\Users\camil\source\repos\Basicos\Calculos\bin\Debug\Calculos.pdb
+C:\Users\camil\source\repos\Basicos\Calculos\obj\Debug\Calculos.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\Basicos\Calculos\obj\Debug\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Basicos\Calculos\obj\Debug\Calculos.exe
+C:\Users\camil\source\repos\Basicos\Calculos\obj\Debug\Calculos.pdb

@@ -1,0 +1,7 @@
+C:\Users\camil\source\repos\Primo\bin\Debug\Primo.exe.config
+C:\Users\camil\source\repos\Primo\bin\Debug\Primo.exe
+C:\Users\camil\source\repos\Primo\bin\Debug\Primo.pdb
+C:\Users\camil\source\repos\Primo\obj\Debug\Primo.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\Primo\obj\Debug\Primo.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Primo\obj\Debug\Primo.exe
+C:\Users\camil\source\repos\Primo\obj\Debug\Primo.pdb

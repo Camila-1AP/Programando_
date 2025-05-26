@@ -12,7 +12,7 @@ namespace Perfecto
         {
             Perfecto();
         }
-        static bool Perfecto()
+        static void Perfecto()
         {
             Console.Write("Ingrese un número: ");
             string tryN = Console.ReadLine();
@@ -28,9 +28,18 @@ namespace Perfecto
                         suma += i;
                     }
                 }
-                return suma == numero;
+                if (suma == numero)
+                {
+                    Console.WriteLine("Es Perfecto!");
+
+
+                } else
+                {
+                    Console.WriteLine("El número no es perfecto");
+                }
+                   
             }
-            return false;
+            
 
         }
     }

@@ -16,11 +16,11 @@ namespace RangoSuma
 
         static void RangoSuma()
         {
-            Console.Write("Ingrese el núumero de inicio del rango: ");
+            Console.Write("Ingrese el número de inicio del rango: ");
             string tryInicio = Console.ReadLine();
             bool exito1 = int.TryParse(tryInicio, out int inicio);
 
-            Console.Write("Ingrese el número del finalo del rango: ");
+            Console.Write("Ingrese el número del final del rango: ");
             string tryFinal = Console.ReadLine();
             bool exit2 = int.TryParse(tryFinal, out int final);
 
@@ -32,7 +32,7 @@ namespace RangoSuma
                     suma += i;
 
                 }
-                Console.WriteLine($"La suma de todos números dentro del rango del {inicio} - {final} = {suma}");
+                Console.WriteLine($"La suma de todos los números dentro del rango del {inicio} - {final} = {suma}");
             }
         }
     }

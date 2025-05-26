@@ -1,0 +1,7 @@
+C:\Users\camil\source\repos\EstadoNumero\bin\Debug\EstadoNumero.exe.config
+C:\Users\camil\source\repos\EstadoNumero\bin\Debug\EstadoNumero.exe
+C:\Users\camil\source\repos\EstadoNumero\bin\Debug\EstadoNumero.pdb
+C:\Users\camil\source\repos\EstadoNumero\obj\Debug\EstadoNumero.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\EstadoNumero\obj\Debug\EstadoNumero.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\EstadoNumero\obj\Debug\EstadoNumero.exe
+C:\Users\camil\source\repos\EstadoNumero\obj\Debug\EstadoNumero.pdb

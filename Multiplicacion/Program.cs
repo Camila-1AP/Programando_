@@ -27,7 +27,7 @@ namespace Multiplicacion
             {
                 Console.WriteLine("Multiplicando...");
                 Thread.Sleep(2000);
-                Console.WriteLine($"Multiplicación: {n1} + {n2} = {n1 * n2} ");
+                Console.WriteLine($"Multiplicación: {n1} * {n2} = {n1 * n2} ");
             }
 
 

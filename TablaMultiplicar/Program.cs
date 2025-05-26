@@ -14,7 +14,7 @@ namespace TablaMultiplicar
         }
         public static void Tabla()
         {
-            Console.WriteLine("Ingrese un número para generar la tabla de multiplicar del 10: ");
+            Console.WriteLine("Ingrese un número para generar la tabla de multiplicar del 1 - 10: ");
             string tryN = Console.ReadLine();
 
             bool exito = int.TryParse(tryN, out int result);
@@ -28,7 +28,7 @@ namespace TablaMultiplicar
 
             } else
             {
-                Console.WriteLine("Ingrese valores válidos.");
+                Console.WriteLine("Ingrese valores validos.");
             }
             
         }

@@ -28,7 +28,7 @@ namespace Sustraccion
             {
                 Console.WriteLine("Restando...");
                 Thread.Sleep(2000);
-                Console.WriteLine($"Resta: {n1} + {n2} = {n1 - n2} ");
+                Console.WriteLine($"Resta: {n1} - {n2} = {n1 - n2} ");
             }
 
         }

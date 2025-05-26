@@ -14,17 +14,17 @@ namespace Mayor3
         }
         static void Mayor()
         {
-            Console.WriteLine("Ingrese el primer número: ");
+            Console.Write("Ingrese el primer número: ");
             string tryN1 = Console.ReadLine();
             bool exito1 = int.TryParse(tryN1, out int A);
 
 
-            Console.WriteLine("Ingrese el segundo número: ");
+            Console.Write("Ingrese el segundo número: ");
             string tryN2 = Console.ReadLine();
             bool exito2 = int.TryParse(tryN2, out int B);
 
 
-            Console.WriteLine("Ingrese el primer número: ");
+            Console.Write("Ingrese el tercer número: ");
             string tryN3 = Console.ReadLine();
             bool exito3 = int.TryParse(tryN3, out int C);
 

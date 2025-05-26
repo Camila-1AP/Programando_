@@ -26,7 +26,7 @@ namespace CountDigits
                 {
                     count++;
                 }
-                Console.WriteLine($"La cantidad digitos del número {numero} es: {count}");
+                Console.WriteLine($"La cantidad dígitos del número {numero} es: {count}");
             }
         }
     }

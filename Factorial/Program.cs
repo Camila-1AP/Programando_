@@ -26,7 +26,7 @@ namespace Factorial
                     resultado *= i;
 
                 }
-                Console.WriteLine(resultado);
+                Console.WriteLine($"Resultado: { resultado}");
             }
 
         }

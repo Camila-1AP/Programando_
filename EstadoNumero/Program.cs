@@ -12,7 +12,7 @@ namespace EstadoNumero
         {
             EstadoNum();
         }
-        static string EstadoNum()
+        static void EstadoNum()
         {
             Console.Write("Ingrese un número: ");
             string tryN = Console.ReadLine();
@@ -23,19 +23,22 @@ namespace EstadoNumero
             {
                 if (numero > 1)
                 {
-                    return $"El número {numero} es positivo (+)";
+                    Console.WriteLine( $"El número {numero} es positivo (+)");
                 }
                 else if (numero < 1 && numero != 0)
                 {
-                    return $"El número {numero} es negativo (-)";
+                    Console.WriteLine( $"El número {numero} es negativo (-)");
                 }
                 else
                 {
-                    return $"El número {numero} es neutro (0)";
+                    Console.WriteLine( $"El número {numero} es neutro (0)");
                 }
 
+            } else
+            {
+                Console.WriteLine($"El valor ingresado {tryN} no es valido.");
             }
-            return $"El valar ingresaso {tryN} no es válido.";
+               
 
 
 

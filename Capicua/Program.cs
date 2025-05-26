@@ -24,7 +24,15 @@ namespace Capicua
                 char[] InvertidoArray = original.ToCharArray();
                 Array.Reverse(InvertidoArray);
                 string invertido = new string(InvertidoArray);
-                Console.WriteLine(original == invertido);
+                if (original == invertido)
+                {
+                    Console.WriteLine("El número ingresado es Capicúa.");
+                } else
+                {
+                    Console.WriteLine("El número ingresado no es Capicúa.");
+
+                }
+
             }
 
 
